@@ -20,9 +20,9 @@ Pero no todo fue sencillo. Uno de los problemas más importantes apareció al pu
 
 Antes de publicarla, las funciones de inicio de sesión, creación de cuentas y eliminación de datos parecían funcionar correctamente. Sin embargo, una vez publicada, comenzaron los fallos: se mezclaban datos de diferentes usuarios, no se eliminaban correctamente y había problemas para iniciar sesión.
 
-Después de investigar durante tres días, descubrimos que el problema estaba relacionado con la base de datos. Había creado dos bases de datos y Vercel estaba utilizando una que no correspondía.
+Después de investigar durante tres días, descubri que el problema estaba relacionado con la base de datos. Había creado dos bases de datos y Vercel estaba utilizando una que no correspondía.
 
-Con ayuda de la IA conseguimos localizar el error, corregirlo y comprobar que todo volvía a funcionar correctamente.
+Con ayuda de la IA consegui localizar el error, corregirlo y comprobar que todo volvía a funcionar correctamente.
 
 Esta experiencia me enseñó que una aplicación puede funcionar bien durante el desarrollo y presentar problemas al publicarla.
 
