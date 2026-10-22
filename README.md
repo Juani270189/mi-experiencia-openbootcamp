@@ -89,3 +89,12 @@ Quiero seguir mejorando mis conocimientos de programación y conseguir que cada 
 Para mí, lo más interesante de este camino es poder crear aquello que imagino y, si además consigo que mis aplicaciones ayuden a otras personas, mucho mejor.
 
 Este aprendizaje lo estoy realizando con OpenBootcamp, a través de [webdevopen.com](https://webdevopen.com/).
+
+## Repositorios de mis proyectos
+
+Aquí puedes consultar el código de los proyectos que he desarrollado durante mi aprendizaje:
+
+- **Lanzador de dados:** https://github.com/juani270189/leccion-28-lanzador-dados
+- **Mi portafolio web:** https://github.com/juani270189/Portafolio
+
+**Finanzas Personales:** el repositorio es privado, pero puedes utilizar la aplicación desde el enlace incluido anteriormente en el artículo.
