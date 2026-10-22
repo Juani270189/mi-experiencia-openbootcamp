@@ -98,3 +98,13 @@ Aquí puedes consultar el código de los proyectos que he desarrollado durante m
 - **Mi portafolio web:** https://github.com/juani270189/Portafolio
 
 **Finanzas Personales:** el repositorio es privado, pero puedes utilizar la aplicación desde el enlace incluido anteriormente en el artículo.
+
+## Mi reflexión sobre lo que necesito mejorar
+
+Actualmente, lo que más me cuesta es entender cómo organizar y estructurar el código de una página web, ya que todavía no conozco bien los diferentes lenguajes y tengo que consultar muchas cosas varias veces.
+
+Aunque voy comprendiendo para qué sirven algunas etiquetas y elementos, todavía necesito ayuda para escribir y organizar el código correctamente.
+
+Entiendo que estoy empezando y que, a medida que avance en el curso, iré adquiriendo más conocimientos.
+
+Creo que con la práctica y la constancia conseguiré comprender mejor los códigos y desarrollar páginas web cada vez con más autonomía.
